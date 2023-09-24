@@ -3,7 +3,7 @@
 
 [`Demo`](https://nghilevi.github.io/country-picker/)
 
-<img src="docs/screenshot.png" />
+<img src="screenshot.png" />
 
 ## Running the app
 
