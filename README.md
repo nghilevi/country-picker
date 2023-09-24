@@ -1,7 +1,7 @@
 # Country Picker
 >  🔎 Find the country you want with ease.
 
-[`Demo`](https://vinhnghi223.github.io/country-picker/)
+[`Demo`](https://nghilevi.github.io/country-picker/)
 
 <img src="docs/screenshot.png" />
 
